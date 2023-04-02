@@ -2,6 +2,8 @@
 
 This project is focused on creating a song recommendation system for a series of basic everyday activities for various listening styles. The goal is to provide a personalized music experience for users and all activities they may do.
 
+Two approaches are used - supervised and unsupervised learning in order to power the content based recommendation system. Models are seperated along with connecting datasets.  
+
 ## How to Use 
 
 Clone the repo in your local desktop.
